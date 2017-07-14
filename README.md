@@ -1,5 +1,5 @@
 # Chassis bbPress Exenstion
-Extension for [Chassis](https://github.com/Chassis/Chassis) to install the [Query Monitor bbPress &amp; BuddyPress Conditionals](https://wordpress.org/plugins/query-monitor-bbpress-buddypress-conditionals/) plugin.
+Extension for [Chassis](https://github.com/Chassis/Chassis) to install the [bbPress](https://wordpress.org/plugins/bbpress/) plugin.
 
 
 ## Installation
