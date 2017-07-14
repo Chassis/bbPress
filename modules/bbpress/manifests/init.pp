@@ -1,5 +1,5 @@
-# Install the bbPress
-class chassis-query-monitor-bbs-conds (
+# Install bbPress
+class bbpress (
   $config,
   $path = '/vagrant/extensions/bbpress'
 ) {
